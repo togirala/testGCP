@@ -2,7 +2,7 @@
 
 1. Create a new project in [Google Cloud Platform](https://console.cloud.google.com)
 
-2. Enable App Engine API's
+2. Enable required [Google Cloud API's](https://console.developers.google.com/apis)
 
 3. Download [Google Cloud SDK installer](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe)
 

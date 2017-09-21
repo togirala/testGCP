@@ -1,4 +1,4 @@
-## Running a python app on Google Cloud Platform - App Engine
+## Running a python app on Google Cloud Platform
 
 1. Create a new project in [Google Cloud Platform](https://console.cloud.google.com)
 
